@@ -1,5 +1,5 @@
 # 입찰업무 자동화 AI 비서 비딩이
-<pre><a href="https://bidding2.krr">https://bidding2.kr</a></pre>
+<pre><a href="https://bidding2.kr">https://bidding2.kr</a></pre>
 
 <img alt="icon" src="https://user-images.githubusercontent.com/8678595/79426912-d29ac300-7ffe-11ea-978b-efd64f1d65f8.png" align="right" width="25%">
 
