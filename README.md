@@ -12,7 +12,33 @@
 
 <img alt="icon" src="https://user-images.githubusercontent.com/8678595/79427104-14c40480-7fff-11ea-95c1-366bea8354ee.png" width="25%">
 
-## 자동화 업무
+## 비딩이 웹 (PC)
+### 입찰정보
+
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/80859933-4e536b80-8c9f-11ea-9194-531beff29d38.PNG" width="100%">
+
+### 낙찰정보
+
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/80859942-662aef80-8c9f-11ea-928d-542af83b48b9.PNG" width="100%">
+
+### 낙찰순위
+
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/80859943-67f4b300-8c9f-11ea-9b94-3284e7d1f06a.PNG" width="100%">
+
+## 비딩이 웹 (Mobile)
+### 입찰정보
+
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/80859954-835fbe00-8c9f-11ea-83bd-f37f5e5329e9.PNG" width="100%">
+
+### 낙찰정보
+
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/80859955-8490eb00-8c9f-11ea-813a-25e6b9cdcdd4.PNG" width="100%">
+
+### 낙찰순위
+
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/80859956-85298180-8c9f-11ea-8594-f43f6556f7be.PNG" width="100%">
+
+## 비딩이 프로그램
 ### 투찰관리
 
 <img alt="icon" src="https://user-images.githubusercontent.com/8678595/79427515-c95e2600-7fff-11ea-9c5f-6e1a9adebd93.png" width="100%">
