@@ -31,16 +31,13 @@
 
 ## 비딩이 웹 (Mobile)
 ### 입찰정보
-
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/80859954-835fbe00-8c9f-11ea-83bd-f37f5e5329e9.PNG" width="100%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797107-6820f600-b034-11ea-957b-f4a5603eb5a6.PNG" width="100%">
 
 ### 낙찰정보
-
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/80859955-8490eb00-8c9f-11ea-813a-25e6b9cdcdd4.PNG" width="100%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797098-66efc900-b034-11ea-9f9f-7264b8cdc93a.PNG" width="100%">
 
 ### 낙찰순위
-
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/80859956-85298180-8c9f-11ea-8594-f43f6556f7be.PNG" width="100%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797110-6820f600-b034-11ea-8c3d-4efdb8e26e3e.PNG" width="100%">
 
 ## 비딩이 프로그램
 ### 투찰관리
