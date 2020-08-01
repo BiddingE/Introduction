@@ -1,10 +1,10 @@
 using System;
 
-namespace Program
+namespace BiddingE
 {
     class Program
     {
-        void main()
+        public static void main()
         {
             Console.WriteLine("비딩비딩");
         }
